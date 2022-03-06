@@ -1,1 +1,168 @@
-/* Write your CSS here! */
+img{
+    height:700px;
+    width:auto;
+    padding: 80px;
+}
+body{
+    background-color: #e5f5f7;
+    margin:8px;
+    display: block;
+}
+#mainHeading{
+    color:red;
+    font-family:fantasy;
+    font-size: 72px;
+}
+.funParagraph{
+    color:green;
+}
+.links{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:24px;
+    padding-bottom: 100px;
+    color:#4d8087
+}
+#juggle{
+    font-family: Rockwell;
+    font-size:48px;
+    text-align:center;
+    color:#4d8087;
+}
+.juggle{
+    width:1500px;
+    margin:10px;
+    font-size:24px;
+    padding-left:100px;
+}
+.juggle1{
+    background-color:lightpink;
+    border: 10px solid lightcoral;
+    border-radius: 25px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right:50px;
+}
+#unicycle{
+    font-family: Rockwell;
+    font-size:48px;
+    text-align:center;
+    color:#4d8087;
+}
+.uni{
+    width:1500px;
+    margin:10px;
+    font-size:24px;
+    padding-left:100px;
+}
+.unicycle1{
+    background-color:lightcoral;
+    border: 10px solid lightpink;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right:50px;
+    border-radius: 25px;
+}
+#stilt{
+    font-family: Rockwell;
+    font-size:48px;
+    text-align:center;
+    color:#4d8087;
+}
+.stilt{
+    width:1500px;
+    margin:10px;
+    font-size:24px;
+    padding-left:100px;
+}
+.stilt1{
+    background-color:lightpink;
+    border: 10px solid lightcoral;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right:50px;
+    border-radius: 25px;
+}
+#climb{
+    font-family: Rockwell;
+    font-size:48px;
+    text-align:center;
+    color:#4d8087;
+}
+.climb{
+    width:1500px;
+    margin:10px;
+    font-size:24px;
+    padding-left:100px;
+}
+.climbing1{
+    background-color:lightcoral;
+    border: 10px solid lightpink;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right:50px;
+    border-radius: 25px;
+}
+#run{
+    font-family: Rockwell;
+    font-size:48px;
+    text-align:center;
+    color:#4d8087;
+}
+.run{
+    width:1500px;
+    margin:10px;
+    font-size:24px;
+    padding-left:100px;
+}
+.run1{
+    background-color:lightpink;
+    border: 10px solid lightcoral;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right:50px;
+    border-radius: 25px;
+}
+#hike{
+    font-family: Rockwell;
+    font-size:48px;
+    text-align:center;
+    color:#4d8087;
+}
+.hike{
+    width:1500px;
+    margin:10px;
+    font-size:24px;
+    padding-left:100px;
+}
+.hike1{
+    background-color:lightcoral;
+    border: 10px solid lightpink;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right:50px;
+    border-radius: 25px;
+}
+#camp{
+    font-family: Rockwell;
+    font-size:48px;
+    text-align:center;
+    color:#4d8087;
+}
+.camp{
+    width:1500px;
+    margin:10px;
+    font-size:24px;
+    padding-left:100px;
+}
+.camp1{
+    background-color:lightpink;
+    border: 10px solid lightcoral;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right:50px;
+    border-radius: 25px;
+}
+#blue{
+    color:#4d8087;
+    font-weight: bold;
+}
