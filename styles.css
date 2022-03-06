@@ -6,10 +6,7 @@ img{
 }
 body{
     background-color: #e5f5f7;
-    margin-top: 8px;
-    margin-bottom: 8px;
-    margin-left: 8px;
-    margin-right: 8px;
+    margin:8px;
     display: block;
 }
 #mainHeading{
@@ -166,7 +163,7 @@ body{
     margin-right:50px;
     border-radius: 25px;
 }
-p{
+#blue{
     color:#4d8087;
     font-weight: bold;
 }
